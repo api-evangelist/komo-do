@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Komodo is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://komo.do/
+Komodo provides an open-source build and deployment system for managing servers, containers, and clusters. It offers a web-based interface to monitor CPU, memory, and disk usage, set alerts, and open shell sessions directly from the browser. Features include Docker Swarm management, automated image building from Git repositories, resource synchronization via declarative TOML files, and extensive automation through procedures and actions. Komodo aims to simplify infrastructure orchestration and DevOps workflows with a unified platform.
+
+**Areas:** Company · DevOps · Infrastructure · Automation · OpenSource
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://komo.do/)
+- [Documentation](https://komo.do/docs/intro)
+- [Getting started](https://komo.do/docs/setup)
+- [API reference](https://komo.do/docs/ecosystem/api)
+- [Changelog](https://komo.do/docs/releases/v2.0.0)
+
+**APIs profiled:** 2
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/komo-do/](https://apis.io/providers/komo-do/).
